@@ -1,10 +1,11 @@
 # ML-Books-Jason-Brownee
 
+Jason Brownlee notes - 19-books list!
 
-This 19-book set includes all currently available EBooks!
+Linear Algebra for Machine Learning
 
-Linear Algebra for Machine Learning/
 Statistical Methods for Machine Learning
+
 Probability for Machine Learning
 Master Machine Learning Algorithms
 Machine Learning Algorithms From Scratch
